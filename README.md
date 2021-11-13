@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElliottStrutton
 - 🌱 I’m currently learning ...
-Java
+MicroPython
 - 📫 How to reach me ...
 Discord ECNS#8452
